@@ -15,4 +15,4 @@ Initially Kate just needed to analyze Citi Bike data to understand the key metri
 ## Challenge Summary
 After completing the additional analysis the story tells that primarily bikes are used by subscribers and used frequently in heavily popluated areas. The data shows that males checkout bikes on average 10 times more than females but on the other hand females use the bikes far longer. Although, Des Moines is not as densely populated as NYC a bike share there could operate with the same success because a city layout lends well to a bike share company. One more visualization that needs to be added is the average trip utilization by age to see if the average age in Des Moines aligns with this proposed business model. 
 
-## [link to dashboard](https://public.tableau.com/app/profile/david.aduaka6887/viz/NYCCitibikeAnalysis_16320940924270/Story1?publish=yes)
+## [Link to Story](https://public.tableau.com/app/profile/david.aduaka6887/viz/NYCCitibikeAnalysis_16320940924270/Story1?publish=yes)
